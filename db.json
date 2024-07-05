@@ -1,0 +1,17 @@
+[
+   {
+      "rcn": 1,
+      "cliente": "Cliente A",
+      "valor": 100
+   },
+   {
+      "rcn": 2,
+      "cliente": "Cliente B",
+      "valor": 200
+   },
+   {
+      "rcn": 3,
+      "cliente": "Cliente C",
+      "valor": 300
+   }
+]
